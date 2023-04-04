@@ -1,0 +1,9 @@
+(add to os-setup repo)
+
+- install Windows
+- change hostname
+- set windows preferences (files, etc.)
+- run debloater
+- run choco install script
+- in brave: install extensions, rmeove cards from new tab screen
+- in steam: change downloads location to gaming drive, move steam and steamapps folder to drive folder
